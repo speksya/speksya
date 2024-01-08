@@ -16,8 +16,6 @@ export default Profile;
 
 my passion as a software engineer is to create web applications that are both user-friendly and visually appealing. delivering high-quality code and exceptional user experiences is my goal with my solid experience in typescript, javascript, and various frontend frameworks
 
----
-
 ## skills
 
 <p>
@@ -31,11 +29,7 @@ my passion as a software engineer is to create web applications that are both us
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
 </p>
 
----
-
 ## contact
 
-- [Telegram](https://t.me/xennaska)
-- [LinkedIn](https://www.linkedin.com/in/daniil-savochkin-614067258/)
+- [telegram](https://t.me/xennaska)
 - vanya.tar@gmail.com
-
