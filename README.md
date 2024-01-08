@@ -32,4 +32,4 @@ my passion as a software engineer is to create web applications that are both us
 ## contact
 
 - [telegram](https://t.me/xennaska)
-- vanya.tar@gmail.com
+- [email](mailto:vanya.tar@gmail.com)
