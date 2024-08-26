@@ -1,20 +1,20 @@
 ## hey! 👋
 
-#### im a 19 years old developer
+#### im a 20 years old developer
 
 ```typescript
 const Profile = () => {
   return <h1>welcome to my profile!</h1>;
 };
 
-export default Profile;
+export { Profile };
 ```
 
 ## about me
 
 #### frontend developer
 
-my passion as a software engineer is to create web applications that are both user-friendly and visually appealing. delivering high-quality code and exceptional user experiences is my goal with my solid experience in typescript, javascript, and various frontend frameworks
+driven and detail-oriented frontend developer
 
 ## skills
 
