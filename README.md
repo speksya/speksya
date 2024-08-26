@@ -12,8 +12,6 @@ export { Profile };
 
 ## about me
 
-#### frontend developer
-
 driven and detail-oriented frontend developer
 
 ## skills
