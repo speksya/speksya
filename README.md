@@ -1,18 +1,6 @@
-## hey! 👋
-
-#### im a 20 years old developer
-
-```typescript
-const Profile = () => {
-  return <h1>welcome to my profile!</h1>;
-};
-
-export { Profile };
-```
-
 ## about me
 
-driven and detail-oriented frontend developer
+frontend developer
 
 ## skills
 
