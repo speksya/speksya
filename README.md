@@ -10,6 +10,7 @@ frontend developer
 <a href="https://nextjs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="50" height="50"/></a>&nbsp;
 <a href="https://vitejs.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="50" height="50"/></a>&nbsp;
 <a href="https://redux.js.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50"/></a>&nbsp;
+<a href="https://redux.js.org/"><img src="https://recoiljs.org/img/logo.svg" title="Recoil" alt="Recoil" height="50"/></a>&nbsp;
 <a href="https://www.java.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java " width="50" height="50"/></a>&nbsp;
 <a href="https://kotlinlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="50" height="50"/></a>&nbsp;
 <a href="https://spring.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"  title="Spring" alt="Spring" width="50" height="50"/></a>&nbsp;
